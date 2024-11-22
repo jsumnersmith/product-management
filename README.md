@@ -1,7 +1,7 @@
 ## Introduction
 👋 I'm a PM and Product Exec and have focused on helping early stage startups develop product market fit. This is a set of resources that, while not exhaustive, have been helpful to me in shaping my understanding of the role of product managment. 
 
-## The Role of the PM
+## What is a Product Manager
 Product Manager is a role that is shaped almost entirely by the stage and needs of the company. PMs fill the gray spaces between engineering and the rest of the org and are ultimately responsible for getting the best possible version of the product to market and ensuring that it adopted well. Occasionally, when the size and effectiveness of the team line up, you will have partners in making that happen, but you will always have to assume the responsibility for making the product successful. That success depends on understanding your customer, the jobs they are trying to get down and the unique ways that your product solves that problem. And while being right about his matters in the long run, the first thing that always matters is shipping. Get your team shipping and then get them shipping the right thing.
 
 ## Resources
