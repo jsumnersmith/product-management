@@ -13,7 +13,9 @@ A great place to start when learning about product managemnet is Elad Gil's over
 - Demand-Side Sales: https://therewiredgroup.com/learn/demand-side-sales-101/
   - Bob Moesta's approach to learning from customers and synthesizing their feedback has been instrumental for me in terms of understanding why people buy products.
 - Competing Against Luck: https://www.harpercollins.com/products/competing-against-luck-clayton-m-christensentaddy-hallkaren-dillondavid-s-duncan?variant=32207691743266
-  - The original book about Jobs to Be Done from Clay Christensen 
+  - The original book about Jobs to Be Done from Clay Christensen
+- The Lean Startup: https://theleanstartup.com/
+  - A key book with seminal concepts like the MVP and lean product development 
    
 ### Podcasts
 - **Lenny’s Podcast**: The standard Product Podcast wiht interviews from Founders and Product Managers 
