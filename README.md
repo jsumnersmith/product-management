@@ -5,7 +5,7 @@
 Product Manager is a role that is shaped almost entirely by the stage and needs of the company. PMs fill the gray spaces between engineering and the rest of the org and are ultimately responsible for getting the best possible version of the product to market and ensuring that it adopted well. Occasionally, when the size and effectiveness of the team line up, you will have partners in making that happen, but you will always have to assume the responsibility for making the product successful. That success depends on understanding your customer, the jobs they are trying to get down and the unique ways that your product solves that problem. And while being right about his matters in the long run, the first thing that always matters is shipping. Get your team shipping and then get them shipping the right thing.
 
 ## Resources
-A great place to start when learning about product managemnet is Elad Gil's overview in High Scale Growth: https://growth.eladgil.com/book/chapter-7-product-management/product-management-overview/
+A great place to start when learning about product management is Elad Gil's overview in High Scale Growth: https://growth.eladgil.com/book/chapter-7-product-management/product-management-overview/
 
 ### Books
 - Inspired: https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition
