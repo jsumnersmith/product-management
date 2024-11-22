@@ -18,7 +18,7 @@ A great place to start when learning about product management is Elad Gil's over
   - A key book with seminal concepts like the MVP and lean product development 
    
 ### Podcasts
-- **Lenny’s Podcast**: The standard Product Podcast wiht interviews from Founders and Product Managers 
+- **Lenny’s Podcast**: The best (currently) product podcast with interviews from Founders and Product Managers 
     - Kari Episode: https://www.youtube.com/watch?v=4muxFVZ4XfM 
     - Shreyas Episode: https://www.youtube.com/watch?v=YP_QghPLG-8 
     - Bob Moesta: https://www.youtube.com/watch?v=xQV7HVyAJjc
@@ -34,9 +34,10 @@ A great place to start when learning about product management is Elad Gil's over
 
 ### Articles
 - 11 Laws of Showrunning: https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf  
-  - (PM-ing is a bit like show running, lots of decisions and you get judged on the outcomes of what you don’t directly control).
+  - Product management is a bit like show running: lots of decisions and you get judged on the outcomes of what you orchestrate
 - Products are Functions: https://www.feltpresence.com/functions/
-  - From Ryan Singer, formerly or of Basecamp 
+  - From Ryan Singer, formerly or of Basecamp, and it provides a nice, tight metaphor for thinking about products 
 - Superhuman's PMF Engine: https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/
+  - A look at how Superhuman quanitifies product-market-fit 
 - Schumpeter on Strategy: https://reactionwheel.net/2019/01/schumpeter-on-strategy.html
   - An interesting read on how value acrues
