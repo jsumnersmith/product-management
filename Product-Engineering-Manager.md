@@ -1,0 +1,3 @@
+# Overview
+In the last few years, my own role has shifted a bit, and I've seen some trends converge from especially the last 5 years of my career (roughly 2020-2025). Specifically, I'm seeing the importance of building a team of strong product engineers (a term I learned from Tyler Barnes and Jason Bahl at Gatsby), the rapid elimination of busy work with rise of LLMs, and the general move towards building efficient businesses (rather than growing at all costs). I've been living into and ruminating about the idea of a singular role that combines the leadership aspects of both engineering management and product management into a single role of produdct egineering manager. More on this shortly.
+
